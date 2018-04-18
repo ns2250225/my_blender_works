@@ -2,4 +2,5 @@
 个人Blender模型作品集
 
 # 作品列表
-- cup (杯子)
+- cup (咖啡杯)
+- football (足球)
